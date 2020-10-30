@@ -5,6 +5,10 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
+/**
+ * @author Ayoub BENHAIMOUD <ayoubbenhaimoud@gmail.com>
+ * @created on 16/09/2020
+ */
 @Entity
 public class Dog {
 
